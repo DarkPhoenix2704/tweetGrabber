@@ -1,20 +1,34 @@
 ![Engage Spot Notion](https://user-images.githubusercontent.com/64391274/230778611-64589571-eaaa-4677-b115-7626978dd856.png)
 
+# Good Vibes
 
+An app that sends users a daily dose of inspirational quotes to uplift their mood and boost their motivation.
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-## Link to product walkthrough
-[link to video]
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+
+1. [N Anbarasu](https://www.github.com/Darkphoenix2704)
+2. [Rithu Reji](https://www.github.com/rithu111)
+
 ## Libraries used
-Library Name - Version
+
+Engagespot
+
+express
+
 ## How to configure
-Instructions for setting up project
+
+```
+yarn install
+```
+
+```
+mv .env.example .env
+```
+
+Update API Keys
+
 ## How to Run
-Instructions for running
+
+```
+yarn start
+```
